@@ -11,10 +11,10 @@ Fuzzy matching for partial plate matches.
 
 ## Requirements
 
-OpenCV
-Tesseract OCR
-fuzzywuzzy
-numpy
+- OpenCV
+- Tesseract OCR
+- fuzzywuzzy
+- numpy
 
 ## Files
 
